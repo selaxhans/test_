@@ -1,0 +1,3 @@
+some text;
+readme .md is already created.
+Nu kör vi kommandoradsversion utan eclipse integration;
